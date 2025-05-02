@@ -1,3 +1,6 @@
 [submodule "DailyFreshBill"]
 	path = DailyFreshBill
 	url = https://github.com/AnuAlias-E/DailyFreshBill.git
+[submodule "DailyFreshStore"]
+	path = DailyFreshStore
+	url = https://github.com/AnuAlias-E/DailyFreshStore.git
