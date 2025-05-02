@@ -7,3 +7,6 @@
 [submodule "DailyFreshCustomer"]
 	path = DailyFreshCustomer
 	url = https://github.com/AnuAlias-E/DailyFreshCustomer.git
+[submodule "DailyFreshProject"]
+	path = DailyFreshProject
+	url = https://github.com/AnuAlias-E/DailyFreshProject.git
