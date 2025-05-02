@@ -1,0 +1,3 @@
+[submodule "DailyFreshBill"]
+	path = DailyFreshBill
+	url = https://github.com/AnuAlias-E/DailyFreshBill.git
